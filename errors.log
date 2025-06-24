@@ -1,0 +1,4 @@
+ERROR: Unauthorized access attempt
+ERROR: Disk quota exceeded
+ERROR: Failed to connect to database
+ERROR: Timeout while reading input
